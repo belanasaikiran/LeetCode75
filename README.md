@@ -1,4 +1,4 @@
-# LeetCode75
+# LeetCode75 [🔗](https://leetcode.com/studyplan/leetcode-75/)
 
 ### Arrays/Strings
 | Problem | Difficulty | Solution | Time Complexity | Space Complexity |
