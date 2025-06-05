@@ -13,3 +13,8 @@
 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | Medium | [Solution](./StringsOrArrays/IncreasingTripletSubsequence.cpp) | O(n) | O(1) |
 |[String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./StringsOrArrays//StringCompression.cpp) | O(n) | O(1) |
 
+### Two Pointers
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Medium | [Solution](./TwoPointers/MoveZeroes.cpp) | O(n) | O(1) |
