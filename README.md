@@ -11,4 +11,5 @@
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | [Solution](./StringsOrArrays/ReverseWordsInAString.cpp) | O(n) | O(n) |
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | [Solution](./StringsOrArrays/ProductOfArrayExceptSelf.cpp) | O(n) | O(1) |
 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | Medium | [Solution](./StringsOrArrays/IncreasingTripletSubsequence.cpp) | O(n) | O(1) |
+|[String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./StringsOrArrays//StringCompression.cpp) | O(n) | O(1) |
 
