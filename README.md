@@ -19,3 +19,6 @@
 | --------| :--------  |---------| :-------------: | :--------------: |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Solution](./TwoPointers/MoveZeroes.cpp) | O(n) | O(1) |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Solution](./TwoPointers/./IsSubsequence.cpp) | O(n) | O(1) |
+|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)| Medium | [Solution](./TwoPointers/ContainerWithMostWater.cpp) | O(n) | O(1) |
+|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)| Medium | [Solution](./TwoPointers/MaxNumberOfKSumPairs.cpp) | O(n log n) and O(n) | O(1) |
+
