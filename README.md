@@ -17,4 +17,5 @@
 
 | Problem | Difficulty |  | Time Complexity | Space Complexity |
 | --------| :--------  |---------| :-------------: | :--------------: |
-| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Medium | [Solution](./TwoPointers/MoveZeroes.cpp) | O(n) | O(1) |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Solution](./TwoPointers/MoveZeroes.cpp) | O(n) | O(1) |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Solution](./TwoPointers/./IsSubsequence.cpp) | O(n) | O(1) |
