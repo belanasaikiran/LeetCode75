@@ -22,3 +22,10 @@
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water)| Medium | [Solution](./TwoPointers/ContainerWithMostWater.cpp) | O(n) | O(1) |
 |[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)| Medium | [Solution](./TwoPointers/MaxNumberOfKSumPairs.cpp) | O(n log n) and O(n) | O(1) |
 
+
+### Sliding Window
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)| Easy | [Solution](./SlidingWindow/MaximumAverageSubarrayI.cpp) | O(n) | O(1) |
+
