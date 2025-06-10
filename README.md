@@ -28,4 +28,5 @@
 | Problem | Difficulty |  | Time Complexity | Space Complexity |
 | --------| :--------  |---------| :-------------: | :--------------: |
 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)| Easy | [Solution](./SlidingWindow/MaximumAverageSubarrayI.cpp) | O(n) | O(1) |
+|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/?envType=study-plan-v2&envId=leetcode-75)| Medium | [Solution](./SlidingWindow/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cpp) | O(n) | O(1) |
 
