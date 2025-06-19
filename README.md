@@ -47,3 +47,11 @@
 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)| Easy | [Solution](./HashMapOrSet/UniqueNumberOfOccurrences.cpp) | O(n) | O(1) |
 |[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)| Medium | [Solution](./HashMapOrSet/DetermineIfTwoStringsAreClose.cpp) | O(n) | O(1) |
 |[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)| Medium | [Solution](./HashMapOrSet/EqualRowAndColumnPairs.cpp) | O(n) | O(1) |
+
+
+### Stack
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)| Medium | [Solution](./Stack/RemovingStarsFromAString.cpp) | O(n) | O(1) |
+|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)| Medium | [Solution](./Stack/AsteroidCollision.cpp) | O(n) | O(1) |
