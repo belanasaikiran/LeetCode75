@@ -32,3 +32,9 @@
 |[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)| Medium | [Solution](./SlidingWindow/Max%20Consecutive%20Ones%20III.cpp) | O(n) | O(1) |
 |[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)| Medium | [Solution](./SlidingWindow/Longest%20Subarray%20of%201s%20After%20Deleting%20One%20Element.cpp) | O(n) | O(1) |
 
+### Prefix Sum
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)| Easy | [Solution](./PrefixSum/FindTheHighestAltitude.cpp) | O(n) | O(1) |
+|[Find the Pivot Index](https://leetcode.com/problems/find-pivot-index)| Easy | [Solution](./PrefixSum/FindPivotIndex.cpp) | O(n) | O(1) |
