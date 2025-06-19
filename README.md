@@ -38,3 +38,12 @@
 | --------| :--------  |---------| :-------------: | :--------------: |
 |[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)| Easy | [Solution](./PrefixSum/FindTheHighestAltitude.cpp) | O(n) | O(1) |
 |[Find the Pivot Index](https://leetcode.com/problems/find-pivot-index)| Easy | [Solution](./PrefixSum/FindPivotIndex.cpp) | O(n) | O(1) |
+
+### Hash Map  / Set
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)| Easy | [Solution](./HashMapOrSet/FindTheDifferenceofTwoArrays.cpp) | O(n) | O(1) |
+|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)| Easy | [Solution](./HashMapOrSet/UniqueNumberOfOccurrences.cpp) | O(n) | O(1) |
+|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)| Medium | [Solution](./HashMapOrSet/DetermineIfTwoStringsAreClose.cpp) | O(n) | O(1) |
+|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)| Medium | [Solution](./HashMapOrSet/EqualRowAndColumnPairs.cpp) | O(n) | O(1) |
