@@ -49,9 +49,10 @@
 |[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)| Medium | [Solution](./HashMapOrSet/EqualRowAndColumnPairs.cpp) | O(n) | O(1) |
 
 
-### Stack
+### Stacks
 
 | Problem | Difficulty |  | Time Complexity | Space Complexity |
 | --------| :--------  |---------| :-------------: | :--------------: |
 |[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)| Medium | [Solution](./Stack/RemovingStarsFromAString.cpp) | O(n) | O(1) |
 |[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)| Medium | [Solution](./Stack/AsteroidCollision.cpp) | O(n) | O(1) |
+|[Decode String](https://leetcode.com/problems/decode-string)| Medium | [Solution](./Stack/DecodeString.cpp) | O(n) | O(n) |
