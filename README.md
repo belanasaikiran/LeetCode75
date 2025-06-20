@@ -56,3 +56,10 @@
 |[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)| Medium | [Solution](./Stack/RemovingStarsFromAString.cpp) | O(n) | O(1) |
 |[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)| Medium | [Solution](./Stack/AsteroidCollision.cpp) | O(n) | O(1) |
 |[Decode String](https://leetcode.com/problems/decode-string)| Medium | [Solution](./Stack/DecodeString.cpp) | O(n) | O(n) |
+
+
+### Queues
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)| Easy | [Solution](./Queues/number-of-recent-calls.cpp) | O(1) | O(1) |
