@@ -60,10 +60,10 @@
 
 ### Queues
 
-| Problem | Difficulty |  | Time Complexity | Space Complexity |
-| --------| :--------  |---------| :-------------: | :--------------: |
+| Problem | Difficulty |  | Time Complexity | Space Complexity | Visit Again |
+| --------| :--------  |---------| :-------------: | :--------------: | :-----: |
 |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)| Easy | [Solution](./Queues/number-of-recent-calls.cpp) | O(1) | O(1) |
-|[Dota 2 Senate ](https://leetcode.com/problems/dota2-senate)| Medium | [Solution](./Queues/dota2-senate.cpp) | O(n) | O(1) |
+|[Dota 2 Senate ](https://leetcode.com/problems/dota2-senate)| Medium | [Solution](./Queues/dota2-senate.cpp) | O(n) | O(1) | Must Redo |
 
 
 
