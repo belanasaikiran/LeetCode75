@@ -72,3 +72,5 @@
 | Problem | Difficulty |  | Time Complexity | Space Complexity |
 | --------| :--------  |---------| :-------------: | :--------------: |
 |[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)| Medium | [Solution](./LInkedList/delete-the-middle-node-of-a-linked-list.cpp) | O(log n) | O(1) |
+|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)| Medium | [Solution](./LInkedList/delete-the-middle-node-of-a-linked-list.cpp) | O(log n) | O(1) |
+|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Solution](./LInkedList/reverse-linked-list.cpp) | O(n) | O(1) |
