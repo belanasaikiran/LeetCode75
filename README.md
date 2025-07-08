@@ -74,3 +74,46 @@
 |[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)| Medium | [Solution](./LInkedList/delete-the-middle-node-of-a-linked-list.cpp) | O(log n) | O(1) |
 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)| Medium | [Solution](./LInkedList/delete-the-middle-node-of-a-linked-list.cpp) | O(log n) | O(1) |
 |[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Solution](./LInkedList/reverse-linked-list.cpp) | O(n) | O(1) |
+|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)| Medium | [Solution](./LInkedList/maximum-twin-sum-of-a-linked-list.cpp) | O(n) | O(1) |
+
+
+### Binary Tree (DFS)
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)| Easy | [Solution](./BinaryTrees/maximum-depth-of-binary-tree.cpp) | O(n) | O(1) |
+|[Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| Easy | [Solution](./BinaryTrees/leaf-similar-trees.cpp) | O(n) | O(n) |
+|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)| Medium | [Solution](./BinaryTrees/count-good-nodes-in-binary-tree.cpp) | O(n) | O(1) |
+|[Path Sum III](https://leetcode.com/problems/path-sum-iii)| Medium | [Solution](./BinaryTrees/path-sum-iii.cpp) | O(n) | O(n) |
+|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)| Medium | [Solution](./BinaryTrees/longest-zigzag-path-in-a-binary-tree.cpp) | O(n) | O(n) |
+|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)| Medium | [Solution](./BinaryTrees/lowest-common-ancestor-of-a-binary-tree.cpp) | O(n) | O(n) |
+
+
+
+### Binary Tree (BFS)
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)| Medium | [Solution](./BinaryTrees/binary-tree-right-side-view.cpp) | O(n) | O(1) |
+|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)| Medium | [Solution](./BinaryTrees/maximum-level-sum-of-a-binary-tree.cpp) | O(n) | O(1) |
+
+
+### Binary Search Tree
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)| Easy | [Solution](./BST/search-in-a-binary-search-tree.cpp) | O(n) | O(1) 
+|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)| Medium | [Solution](./BST/delete-node-in-a-bst.cpp) | O(n) | O(1) 
+
+
+
+### Graphs - DFS
+
+I need to re-do this. Too confusing. Maybe redo and understand how to solve these
+
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
+|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)| Medium | [Solution](./Graphs/keys-and-rooms.cpp) | O(n) | O(n) 
+|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)| Medium | [Solution](./Graphs/number-of-provinces.cpp) | O(n) | O(n) 
+|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)| Medium | [Solution](./Graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | O(n) | O(n) 
+|[Evaluate Division](https://leetcode.com/problems/evaluate-division)| Medium | [Solution](./Graphs/evaluate-division.cpp) | O(n) | O(n) 
