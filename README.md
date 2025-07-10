@@ -117,3 +117,8 @@ I need to re-do this. Too confusing. Maybe redo and understand how to solve thes
 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces)| Medium | [Solution](./Graphs/number-of-provinces.cpp) | O(n) | O(n) 
 |[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)| Medium | [Solution](./Graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | O(n) | O(n) 
 |[Evaluate Division](https://leetcode.com/problems/evaluate-division)| Medium | [Solution](./Graphs/evaluate-division.cpp) | O(n) | O(n) 
+
+
+### Graphs - BFS
+
+|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)| Medium | [Solution](./Graphs/nearest-exit-from-entrance-in-maze.cpp) | O(m x n) | O(m x n) 
