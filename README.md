@@ -121,4 +121,6 @@ I need to re-do this. Too confusing. Maybe redo and understand how to solve thes
 
 ### Graphs - BFS
 
+| Problem | Difficulty |  | Time Complexity | Space Complexity |
+| --------| :--------  |---------| :-------------: | :--------------: |
 |[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)| Medium | [Solution](./Graphs/nearest-exit-from-entrance-in-maze.cpp) | O(m x n) | O(m x n) 
